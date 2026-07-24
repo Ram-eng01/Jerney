@@ -1,5 +1,5 @@
 aws_region      = "ap-south-2"
 environment     = "dev"
 cluster_name    = "jerney-eks"
-cluster_version = "1.32"
+cluster_version = "1.34"
 vpc_cidr        = "10.0.0.0/16"
